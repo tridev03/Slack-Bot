@@ -1,2 +1,3 @@
 # Slack-Bot
-I have created slack bot using the python and the slack api.it interacts with the user message.
+This project is a simple Slack bot built using Python, Flask, and the Slack SDK.
+It listens to user messages, responds to commands, and interacts with Slack channels in real-time
